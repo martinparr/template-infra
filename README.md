@@ -1,2 +1,2 @@
 # template-infra
-This will be the template from infra repositories.
+This will be the template for infra repositories.
